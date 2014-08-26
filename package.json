@@ -1,0 +1,10 @@
+{
+  "name": "test-foo",
+  "description": "test repo for gitfuse",
+  "version": "0.1.0",
+  "private": true,
+  "gitfuseDependencies": {
+    "test-bar": "master",
+    "test-qux": "branch"
+  }
+}
