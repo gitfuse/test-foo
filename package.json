@@ -3,6 +3,9 @@
   "description": "test repo for gitfuse",
   "version": "0.1.0",
   "private": true,
+  "dependencies": {
+    "lodash": "~2.4.1"
+  },
   "gitfuseDependencies": {
     "test-bar": "master",
     "test-qux": "branch"
