@@ -1,13 +1,13 @@
 {
   "name": "test-foo",
   "description": "test repo for gitfuse",
-  "version": "0.1.0",
+  "version": "0.2.0-0",
   "private": true,
   "dependencies": {
     "lodash": "~2.4.1"
   },
   "gitfuseDependencies": {
-    "test-bar": "master",
-    "test-qux": "branch"
+    "test-bar": "~0.3.0",
+    "test-qux": "~0.2.0"
   }
 }
